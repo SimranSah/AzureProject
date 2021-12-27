@@ -7,4 +7,4 @@ Anomaly Detector Resource:
     
 Power BI DESKTOP :
     The Power BI Desktop makes discovering data easy. You can import data from a wide variety of data sources. After you connect to a data source, you can shape the data to match your analysis and reporting needs.
-    In this project excel workbook are a source of data to check for anomalies.
+    In this project excel workbook is the  source of data.
