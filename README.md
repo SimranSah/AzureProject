@@ -1,6 +1,6 @@
 # AzureProject
 
-This project use Microsoft Power BI desktop and Anomaly Detector Resource from Microsoft Azure to detect anomalies.The use of visualization from the Power BI desktop makes it easier to detect the issue regarding variance in data provided.
+This project uses Microsoft Power BI desktop and Anomaly Detector Resource from Microsoft Azure to detect anomalies.The use of visualization from the Power BI desktop makes it easier to detect the issue regarding variance in data provided.
 
 Anomaly Detector Resource:
     This project uses a univariate batch detection technique and uses two values Timestamp and value.Using this data, the API determines boundaries for anomaly detection, expected values, and which data points are anomalies.
